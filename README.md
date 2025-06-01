@@ -36,19 +36,6 @@ Tech Stack
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
----
-
-How to Run
-
-1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/diabetes-ml-final.git
-   cd diabetes-ml-final
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Launch the notebook:
-   jupyter notebook "final exam ML1.ipynb"
 
 ---
 
